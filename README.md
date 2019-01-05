@@ -17,4 +17,4 @@
    type `python` to get into python  
    `import cv2`  
    `cv2.__version__`  
-!(https://github.com/uuboyscy/cameraOpenCV/blob/master/image.PNG)   
+!(cameraOpenCV/image.PNG)   
