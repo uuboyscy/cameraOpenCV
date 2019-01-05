@@ -1,12 +1,12 @@
 # OpenCV installation on raspberryPi
-## git clone and put it on home dir
+*git clone and put it on home dir*
 
-`cd ~`  
+   `cd ~`  
 
-`git clone https://github.com/uuboyscy/cameraOpenCV.git`  
+   `git clone https://github.com/uuboyscy/cameraOpenCV.git`  
 
-`cd ~/cameraOpenCV`  
+   `cd ~/cameraOpenCV`  
 
-`./startInstall.sh`  
+   `./startInstall.sh`  
 
-The installation needs about 4hours.
+*The installation needs about 4hours.*
