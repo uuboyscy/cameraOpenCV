@@ -8,7 +8,7 @@
    `cd ~/cameraOpenCV`  
    `./startInstall.sh`  
 
-*The installation needs about 4hours.*  
+*The installation needs about 4 hours.*  
 
 ### Step2
 
