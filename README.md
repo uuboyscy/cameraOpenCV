@@ -2,12 +2,15 @@
 *git clone and put it on home dir*  
 *Do not use root!*
 
+### Step1
    `cd ~`  
    `git clone https://github.com/uuboyscy/cameraOpenCV.git`  
    `cd ~/cameraOpenCV`  
    `./startInstall.sh`  
 
 *The installation needs about 4hours.*  
+
+### Step2
 
 *After finishing the process above, check if OpenCV installed successfully.*
 
