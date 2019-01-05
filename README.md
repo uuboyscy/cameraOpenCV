@@ -7,4 +7,11 @@
    `cd ~/cameraOpenCV`  
    `./startInstall.sh`  
 
-*The installation needs about 4hours.*
+*The installation needs about 4hours.*  
+
+*After finishing the process above, check if OpenCV installed successfully.*
+
+   type `python` to get into python  
+   `import cv2`  
+   `cv2.__version__`  
+   
