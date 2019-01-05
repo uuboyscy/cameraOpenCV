@@ -17,4 +17,6 @@
    type `python` to get into python  
    `import cv2`  
    `cv2.__version__`  
+   
 ![](https://github.com/uuboyscy/cameraOpenCV/blob/master/image.PNG?raw=true)   
+*You should see the photo above if the installation is successful.*
